@@ -6,15 +6,25 @@
 
   #img-div {
     margin: 0 auto;
-    border-style: solid;
   }
 
   #image {
     margin: 0 auto;
   }
 
+  #title {
+    text-align:center;
+  }
+
+  #img-caption {
+    text-align:center;
+  }
+
+  #tribute-info {
+    text-align:center;
+  }
+
   #main {
-    border-style: solid;
     background: #D3D3D3;
     border-radius: 50px;
     width: 70%;
